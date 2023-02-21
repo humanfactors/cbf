@@ -1,4 +1,4 @@
-cbf.setwd.currentpath = setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+# cbf.setwd.currentpath = setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 cbf.dropboxpath = function() {
 
